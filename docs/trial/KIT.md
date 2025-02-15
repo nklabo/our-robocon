@@ -8,19 +8,22 @@
 
 ## 追加材料(任意)
 - 両面テープ
+![両面テープ](./images/DoubleSidedTape.jpg)
 - 輪ゴム
 ![輪ゴム1](./images/rubber1.jpg)
 ![輪ゴム2](./images/rubber2.jpg)
-- ストロー
 - 竹串
 ![竹串](./images/takegusi.jpg)
 - プラスチック段ボール
+![プラスチック段ボール](./images/PlasticCardboard.jpg)
 - スポンジ
 ![スポンジ](./images/sponge.jpg)
 - セロハンテープ
+![セロハンテープ](./images/CellophaneTape.jpg)
 
 ## 工具
 - ハサミ
+![ハサミ](./images/scissors.jpg)
 
 ## 注意事項
 - 年齢に応じた工具の使用制限
