@@ -7,23 +7,23 @@
 いつもお世話になっています!!ありがとうございます！
 
 ## 追加材料(任意)
-- 両面テープ
-![両面テープ](./images/DoubleSidedTape.jpg)
-- 輪ゴム
-![輪ゴム1](./images/rubber1.jpg)
-![輪ゴム2](./images/rubber2.jpg)
-- 竹串
-![竹串](./images/takegusi.jpg)
-- プラスチック段ボール
-![プラスチック段ボール](./images/PlasticCardboard.jpg)
-- スポンジ
-![スポンジ](./images/sponge.jpg)
-- セロハンテープ
-![セロハンテープ](./images/CellophaneTape.jpg)
+- 両面テープ  
+<img src="./images/DoubleSidedTape.jpg" width="200px">  
+- 輪ゴム  
+<img src="./images/rubber1.jpg" width="200px">
+<img src="./images/rubber2.jpg" width="200px">  
+- 竹串  
+<img src="./images/takegusi.jpg" width="200px">  
+- プラスチック段ボール  
+<img src="./images/PlasticCardboard.jpg" width="200px">  
+- スポンジ  
+<img src="./images/sponge.jpg" width="200px">  
+- セロハンテープ    
+<img src="./images/CellophaneTape.jpg" width="200px">
 
 ## 工具
-- ハサミ
-![ハサミ](./images/scissors.jpg)
+- ハサミ  
+<img src="./images/scissors.jpg" width="200px">
 
 ## 注意事項
 - 年齢に応じた工具の使用制限
@@ -31,15 +31,20 @@
 
 ## 完成例
 
-### 基本ロボット
-![基本](./images/basic.jpg)
+### 基本ロボット  
+<img src="./images/basic.jpg" width="300px">
 
 ### 改良ロボット(例1)
-![改良](./images/modified.jpg)
+<img src="./images/modified.jpg" width="300px">
+
 ※例えば、ピンポン玉を回収するロボットがテーマの場合、竹串を使ってロボットの足を作ると、ピンポン玉を回収しやすくなるなど課題に応じて決められた材料で改良してください。
 
 ### 改良ロボット(例2)
-![改良](./images/modified2.jpg)
+<img src="./images/modified2.jpg" width="300px">
+
+
 ※例えば、万能ジョイントにスポンジをつけ移動をスムーズにするなど。スポンジの形状を変えることで、段差を越えることができるなど課題に応じて決められた材料で改良してください。
 また、万能ジョイントを使わずにタイヤを自作できるかなど、自由な発想で試行錯誤してみましょう。
-![動作イメージ](./images/robo.gif)
+
+### 動作イメージ
+<img src="./images/robo.gif" width="300px">
